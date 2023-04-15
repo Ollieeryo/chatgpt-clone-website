@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Features
+## Features
 
 * Login with Google Account
 * Conversation with ChatGPT with different language model provided by OpenAi
@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Visit website : [ChatGPT Clone 2.0](https://chatgpt-project-two.vercel.app/)
 
 
-# Project
+## Project
 
 First, run the development server:
 
